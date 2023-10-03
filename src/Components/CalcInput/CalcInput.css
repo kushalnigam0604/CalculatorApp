@@ -1,0 +1,11 @@
+input{
+    border: none;
+    width: 95%;
+    background: rgb(228, 227, 227);
+    text-align: end;
+    height: 10vh;
+    font-size: larger;
+}
+.result{
+    height: 4vh;
+}

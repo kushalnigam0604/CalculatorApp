@@ -1,0 +1,8 @@
+.header{
+    display: flex;
+    padding: 10px;
+}
+.menuIcon{
+    margin-right: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.history-panel{
+    background: rgb(228, 227, 227);
+    width: 100%;
+    padding: 5px;
+    border-radius: 7px;
+}
+.history-panel > span{
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+}
+.history-list{
+    padding: 8px 0px;
+    height: 250px;
+    overflow-y: scroll;
+}
